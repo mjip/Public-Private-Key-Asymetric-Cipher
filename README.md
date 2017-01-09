@@ -5,6 +5,7 @@ Checks the validity of public/private keys and encrypts/decrypts messages passed
 
 After compilation, this program can be called in two ways:
 >$ a.out -CHECK PUBLIC_KEY PRIVATE_KEY MODULO
+
 >$ a.out -CIPHER filename KEY
 
 The first option checks to see if public_key, private_key and modulo can be used to form
