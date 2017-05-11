@@ -2,7 +2,6 @@
 #include <string.h>
 #include <stdlib.h>
 
-/* Marie Payne, ID# 260686859 */
 
 void check(int w, int v, int u);
 void cipher(char *filename, int key);
